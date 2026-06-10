@@ -1,0 +1,10 @@
+{
+    "username": "",
+    "password": "",
+    "franchises": {
+        "GENSHIN_IMPACT": false,
+        "HONKAI_STAR_RAIL": false,
+        "PROJECT_SEKAI": false,
+        "BANG_DREAM": false
+    }
+}
